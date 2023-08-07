@@ -6,4 +6,6 @@ Reference: watch *[DEMO VIDEO!](https://m.youtube.com/playlist?list=PL6FWNwNPGCE
 
 ## Project Source Codes:
 * [Hungman Game](https://github.com/pj-t/MystanCodeProjects/tree/main/stanCode_Projects/hangman_game/hangman.py)
-  * python semantics & syntax 
+  * python semantics & syntax
+* [Breakout Game](https://github.com/pj-t/MystanCodeProjects/blob/main/stanCode_Projects/break_out_game/breakout.py)
+* 
